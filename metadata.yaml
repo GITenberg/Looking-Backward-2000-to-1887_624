@@ -1,0 +1,41 @@
+_repo: Looking-Backward-2000-to-1887_624
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bellamy, Edward
+    birthdate: 1850
+    deathdate: 1898
+    gutenberg_agent_id: '327'
+    url: http://www.gutenberg.org/2009/agents/327
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bellamy
+description: Looking Backward by Edward Bellamy is a novel that takes the reader from
+  the end of the 19th century into an idealistic vision of the 21st century. In many
+  ways Looking Backward is a 19th century romantic novel; yet, on another level the
+  novel is a complex investigation of the possibilities of humanity as the conversations
+  unfold between Julian West, the narrator and time traveler, and Dr. leetee, his
+  21st century guide and mentor. Through these often Socratic conversations, Bellamy
+  provides the reader with insight into the social problems and ills of the mid-to-late
+  19th century as well as with a vision of a utopian possibility for the millennium.
+  Description from http://www.us.penguingroup.com/static/pdf/teachersguides/looking.pdf
+  (Visited on Nov. 20, 2012).
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '1996-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '624'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Two thousand, A.D. -- Fiction'
+- !lcsh 'Utopian fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Social problems -- Fiction'
+- !lcsh 'Utopias -- Fiction'
+- !lcsh 'Boston (Mass.) -- Fiction'
+- GITenberg
+title: Looking Backward, 2000 to 1887
+url: http://www.gutenberg.org/ebooks/624
